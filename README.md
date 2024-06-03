@@ -7,7 +7,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey computer science has led me to develop a passion for cybersecurity. As I enter further into my career I am looking for an entry level position for a more real-world environment.
 
 ## Skills
 
@@ -18,10 +18,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Blank | Associated Lab |
 | Blank | Associated Lab |
 | Blank | Associated Lab |
-| Blank -p| Associated Lab |
+| Blank | Associated Lab |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
